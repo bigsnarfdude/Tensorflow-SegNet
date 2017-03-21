@@ -1,4 +1,4 @@
-# Tensorflow-SegNet
+# Tensorflow-SegNet!
 Implement slightly different [SegNet](http://arxiv.org/abs/1511.00561) in tensorflow,
 successfully trained segnet-basic in CamVid dataset
 
